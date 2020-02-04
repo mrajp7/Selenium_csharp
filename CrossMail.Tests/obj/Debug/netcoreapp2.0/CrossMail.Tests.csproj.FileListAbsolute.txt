@@ -1,0 +1,9 @@
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\obj\Debug\netcoreapp2.0\CrossMail.Tests.AssemblyInfoInputs.cache
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\obj\Debug\netcoreapp2.0\CrossMail.Tests.AssemblyInfo.cs
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\bin\Debug\netcoreapp2.0\Tests\Testdata\dummydoc.txt
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\bin\Debug\netcoreapp2.0\config.json
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\bin\Debug\netcoreapp2.0\CrossMail.Tests.deps.json
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\bin\Debug\netcoreapp2.0\CrossMail.Tests.dll
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\obj\Debug\netcoreapp2.0\CrossMail.Tests.csprojAssemblyReference.cache
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\bin\Debug\netcoreapp2.0\CrossMail.Tests.runtimeconfig.json
+C:\Users\Lenovo\sandbox\qa-automation-cs\qa-automation-selenium-cs\CrossMail\CrossMail.Tests\bin\Debug\netcoreapp2.0\CrossMail.Tests.runtimeconfig.dev.json
